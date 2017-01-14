@@ -1,10 +1,14 @@
 {
-    "name": "nelmio/api-doc-bundle",
+    "name": "gohiei/api-doc-bundle",
     "description": "Generates documentation for your REST API from annotations",
     "keywords": ["api", "documentation", "doc", "rest"],
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
+        {
+            "name": "gohiei",
+            "homepage": "https://github.com/gohiei/NelmioApiDocBundle"
+        },
         {
             "name": "Nelmio",
             "homepage": "http://nelm.io"
